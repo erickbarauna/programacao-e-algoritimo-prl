@@ -1,0 +1,7 @@
+C:\Users\alunoinfo\source\repos\EX03_PRL_081122\EX03_PRL_081122\bin\Debug\EX03_PRL_081122.exe.config
+C:\Users\alunoinfo\source\repos\EX03_PRL_081122\EX03_PRL_081122\bin\Debug\EX03_PRL_081122.exe
+C:\Users\alunoinfo\source\repos\EX03_PRL_081122\EX03_PRL_081122\bin\Debug\EX03_PRL_081122.pdb
+C:\Users\alunoinfo\source\repos\EX03_PRL_081122\EX03_PRL_081122\obj\Debug\EX03_PRL_081122.csproj.AssemblyReference.cache
+C:\Users\alunoinfo\source\repos\EX03_PRL_081122\EX03_PRL_081122\obj\Debug\EX03_PRL_081122.csproj.CoreCompileInputs.cache
+C:\Users\alunoinfo\source\repos\EX03_PRL_081122\EX03_PRL_081122\obj\Debug\EX03_PRL_081122.exe
+C:\Users\alunoinfo\source\repos\EX03_PRL_081122\EX03_PRL_081122\obj\Debug\EX03_PRL_081122.pdb

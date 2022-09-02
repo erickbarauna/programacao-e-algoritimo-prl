@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex02_PRL_050822/1.0.0": {
+        "runtime": {
+          "Ex02_PRL_050822.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex02_PRL_050822/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

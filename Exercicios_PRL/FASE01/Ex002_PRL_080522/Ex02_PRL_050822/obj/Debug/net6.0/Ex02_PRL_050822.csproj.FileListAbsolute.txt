@@ -1,0 +1,15 @@
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\bin\Debug\net6.0\Ex02_PRL_050822.exe
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\bin\Debug\net6.0\Ex02_PRL_050822.deps.json
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\bin\Debug\net6.0\Ex02_PRL_050822.runtimeconfig.json
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\bin\Debug\net6.0\Ex02_PRL_050822.dll
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\bin\Debug\net6.0\Ex02_PRL_050822.pdb
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\Ex02_PRL_050822.csproj.AssemblyReference.cache
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\Ex02_PRL_050822.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\Ex02_PRL_050822.AssemblyInfoInputs.cache
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\Ex02_PRL_050822.AssemblyInfo.cs
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\Ex02_PRL_050822.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\Ex02_PRL_050822.dll
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\refint\Ex02_PRL_050822.dll
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\Ex02_PRL_050822.pdb
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\Ex02_PRL_050822.genruntimeconfig.cache
+C:\Users\conta\source\repos\Ex02_PRL_050822\Ex02_PRL_050822\obj\Debug\net6.0\ref\Ex02_PRL_050822.dll
