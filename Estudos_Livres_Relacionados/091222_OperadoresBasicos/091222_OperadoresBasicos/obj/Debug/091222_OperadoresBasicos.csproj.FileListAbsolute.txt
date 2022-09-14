@@ -1,0 +1,8 @@
+C:\Users\conta\source\repos\091222_OperadoresBasicos\091222_OperadoresBasicos\bin\Debug\091222_OperadoresBasicos.exe.config
+C:\Users\conta\source\repos\091222_OperadoresBasicos\091222_OperadoresBasicos\bin\Debug\091222_OperadoresBasicos.exe
+C:\Users\conta\source\repos\091222_OperadoresBasicos\091222_OperadoresBasicos\bin\Debug\091222_OperadoresBasicos.pdb
+C:\Users\conta\source\repos\091222_OperadoresBasicos\091222_OperadoresBasicos\obj\Debug\091222_OperadoresBasicos.csproj.AssemblyReference.cache
+C:\Users\conta\source\repos\091222_OperadoresBasicos\091222_OperadoresBasicos\obj\Debug\091222_OperadoresBasicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\source\repos\091222_OperadoresBasicos\091222_OperadoresBasicos\obj\Debug\091222_OperadoresBasicos.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\091222_OperadoresBasicos\091222_OperadoresBasicos\obj\Debug\091222_OperadoresBasicos.exe
+C:\Users\conta\source\repos\091222_OperadoresBasicos\091222_OperadoresBasicos\obj\Debug\091222_OperadoresBasicos.pdb
