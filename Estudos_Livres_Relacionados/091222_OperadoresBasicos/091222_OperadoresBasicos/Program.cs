@@ -47,7 +47,7 @@ namespace _091222_OperadoresBasicos
             */
 
 
-            // Conversão de fahrenheit para celsius
+            // Conversão de fahrenheit para celsius Desafio
             /*
             int fahrenheit = 94;
             decimal celsius = (fahrenheit - 32m) * (5m / 9m);
