@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "092122_Matrizes_e_Foreach", "092122_Matrizes_e_Foreach\092122_Matrizes_e_Foreach.csproj", "{6C70BD0A-B108-4B00-A329-2FCC1541F5B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C70BD0A-B108-4B00-A329-2FCC1541F5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C70BD0A-B108-4B00-A329-2FCC1541F5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C70BD0A-B108-4B00-A329-2FCC1541F5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C70BD0A-B108-4B00-A329-2FCC1541F5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9F34451-0E49-4BD7-91B6-DBB831BD6725}
+	EndGlobalSection
+EndGlobal
