@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\092122_Matrizes_e_Foreach\bin\Debug\092122_Matrizes_e_Foreach.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\092122_Matrizes_e_Foreach\bin\Debug\092122_Matrizes_e_Foreach.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\092122_Matrizes_e_Foreach\bin\Debug\092122_Matrizes_e_Foreach.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\092122_Matrizes_e_Foreach\obj\Debug\092122_Matrizes_e_Foreach.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\092122_Matrizes_e_Foreach\obj\Debug\092122_Matrizes_e_Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\092122_Matrizes_e_Foreach\obj\Debug\092122_Matrizes_e_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\092122_Matrizes_e_Foreach\obj\Debug\092122_Matrizes_e_Foreach.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\092122_Matrizes_e_Foreach\obj\Debug\092122_Matrizes_e_Foreach.pdb
