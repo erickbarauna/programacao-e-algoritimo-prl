@@ -6,3 +6,11 @@ C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionado
 C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\desafio\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\obj\Debug\Ex019_PRL_092222_2°ATV.csproj.CoreCompileInputs.cache
 C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\desafio\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\obj\Debug\Ex019_PRL_092222_2°ATV.exe
 C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092122_Matrizes_e_Foreach\desafio\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\obj\Debug\Ex019_PRL_092222_2°ATV.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE02\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\bin\Debug\Ex019_PRL_092222_2°ATV.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE02\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\bin\Debug\Ex019_PRL_092222_2°ATV.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE02\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\bin\Debug\Ex019_PRL_092222_2°ATV.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE02\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\obj\Debug\Ex019_PRL_092222_2°ATV.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE02\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\obj\Debug\Ex019_PRL_092222_2°ATV.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE02\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\obj\Debug\Ex019_PRL_092222_2°ATV.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE02\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\obj\Debug\Ex019_PRL_092222_2°ATV.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE02\Ex019_PRL_092222_2°ATV\Ex019_PRL_092222_2°ATV\obj\Debug\Ex019_PRL_092222_2°ATV.pdb
