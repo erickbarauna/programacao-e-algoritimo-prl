@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\desafio\092422_desafio\092422_desafio\bin\Debug\092422_desafio.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\desafio\092422_desafio\092422_desafio\bin\Debug\092422_desafio.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\desafio\092422_desafio\092422_desafio\bin\Debug\092422_desafio.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\desafio\092422_desafio\092422_desafio\obj\Debug\092422_desafio.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\desafio\092422_desafio\092422_desafio\obj\Debug\092422_desafio.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\desafio\092422_desafio\092422_desafio\obj\Debug\092422_desafio.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\desafio\092422_desafio\092422_desafio\obj\Debug\092422_desafio.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\desafio\092422_desafio\092422_desafio\obj\Debug\092422_desafio.pdb

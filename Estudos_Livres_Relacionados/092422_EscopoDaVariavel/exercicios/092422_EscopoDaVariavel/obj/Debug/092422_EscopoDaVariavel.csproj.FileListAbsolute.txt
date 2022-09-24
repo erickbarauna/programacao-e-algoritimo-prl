@@ -1,0 +1,3 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\092422_EscopoDaVariavel\obj\Debug\092422_EscopoDaVariavel.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\092422_EscopoDaVariavel\obj\Debug\092422_EscopoDaVariavel.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092422_EscopoDaVariavel\092422_EscopoDaVariavel\obj\Debug\092422_EscopoDaVariavel.csproj.CoreCompileInputs.cache
