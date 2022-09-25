@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092522_IterarPorMeioDeBlocoDeCodigoCom_For\exercicios\IterarUsandoIf\IterarUsandoIf\bin\Debug\IterarUsandoIf.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092522_IterarPorMeioDeBlocoDeCodigoCom_For\exercicios\IterarUsandoIf\IterarUsandoIf\bin\Debug\IterarUsandoIf.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092522_IterarPorMeioDeBlocoDeCodigoCom_For\exercicios\IterarUsandoIf\IterarUsandoIf\bin\Debug\IterarUsandoIf.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092522_IterarPorMeioDeBlocoDeCodigoCom_For\exercicios\IterarUsandoIf\IterarUsandoIf\obj\Debug\IterarUsandoIf.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092522_IterarPorMeioDeBlocoDeCodigoCom_For\exercicios\IterarUsandoIf\IterarUsandoIf\obj\Debug\IterarUsandoIf.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092522_IterarPorMeioDeBlocoDeCodigoCom_For\exercicios\IterarUsandoIf\IterarUsandoIf\obj\Debug\IterarUsandoIf.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092522_IterarPorMeioDeBlocoDeCodigoCom_For\exercicios\IterarUsandoIf\IterarUsandoIf\obj\Debug\IterarUsandoIf.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092522_IterarPorMeioDeBlocoDeCodigoCom_For\exercicios\IterarUsandoIf\IterarUsandoIf\obj\Debug\IterarUsandoIf.pdb
