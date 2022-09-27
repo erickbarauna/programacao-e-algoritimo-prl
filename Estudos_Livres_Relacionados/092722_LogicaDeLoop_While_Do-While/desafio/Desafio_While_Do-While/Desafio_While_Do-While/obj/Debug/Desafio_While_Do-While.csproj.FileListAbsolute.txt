@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092722_LogicaDeLoop_While_Do-While\desafio\Desafio_While_Do-While\Desafio_While_Do-While\bin\Debug\Desafio_While_Do-While.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092722_LogicaDeLoop_While_Do-While\desafio\Desafio_While_Do-While\Desafio_While_Do-While\bin\Debug\Desafio_While_Do-While.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092722_LogicaDeLoop_While_Do-While\desafio\Desafio_While_Do-While\Desafio_While_Do-While\bin\Debug\Desafio_While_Do-While.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092722_LogicaDeLoop_While_Do-While\desafio\Desafio_While_Do-While\Desafio_While_Do-While\obj\Debug\Desafio_While_Do-While.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092722_LogicaDeLoop_While_Do-While\desafio\Desafio_While_Do-While\Desafio_While_Do-While\obj\Debug\Desafio_While_Do-While.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092722_LogicaDeLoop_While_Do-While\desafio\Desafio_While_Do-While\Desafio_While_Do-While\obj\Debug\Desafio_While_Do-While.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092722_LogicaDeLoop_While_Do-While\desafio\Desafio_While_Do-While\Desafio_While_Do-While\obj\Debug\Desafio_While_Do-While.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\092722_LogicaDeLoop_While_Do-While\desafio\Desafio_While_Do-While\Desafio_While_Do-While\obj\Debug\Desafio_While_Do-While.pdb
