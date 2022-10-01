@@ -70,7 +70,7 @@ namespace ConversaoDeDados
             provavelmente deve usar TryParse()quando possível.
 
             A classe Convert é melhor para converter números fracionários
-            em números inteiros ( int) porque ela arredonda da maneira que você esperaria.
+            em números inteiros (int) porque ela arredonda da maneira que você esperaria.
             /*
 
             // Observação
