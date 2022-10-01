@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100122_TecnicasDeConvercaoDeDados\desafio1\ConversaoDesafio1\ConversaoDesafio1\bin\Debug\ConversaoDesafio1.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100122_TecnicasDeConvercaoDeDados\desafio1\ConversaoDesafio1\ConversaoDesafio1\bin\Debug\ConversaoDesafio1.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100122_TecnicasDeConvercaoDeDados\desafio1\ConversaoDesafio1\ConversaoDesafio1\bin\Debug\ConversaoDesafio1.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100122_TecnicasDeConvercaoDeDados\desafio1\ConversaoDesafio1\ConversaoDesafio1\obj\Debug\ConversaoDesafio1.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100122_TecnicasDeConvercaoDeDados\desafio1\ConversaoDesafio1\ConversaoDesafio1\obj\Debug\ConversaoDesafio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100122_TecnicasDeConvercaoDeDados\desafio1\ConversaoDesafio1\ConversaoDesafio1\obj\Debug\ConversaoDesafio1.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100122_TecnicasDeConvercaoDeDados\desafio1\ConversaoDesafio1\ConversaoDesafio1\obj\Debug\ConversaoDesafio1.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100122_TecnicasDeConvercaoDeDados\desafio1\ConversaoDesafio1\ConversaoDesafio1\obj\Debug\ConversaoDesafio1.pdb
