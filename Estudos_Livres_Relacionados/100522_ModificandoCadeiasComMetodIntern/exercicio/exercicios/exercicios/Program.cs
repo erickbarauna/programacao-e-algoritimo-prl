@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Microsoft.SqlServer.Server;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -133,9 +135,41 @@ namespace exercicios
                 int length = closingPosition - openingPosition;
                 Console.WriteLine(message.Substring(openingPosition, length));
             }
-
             */
 
+
+            //Diversos tópicos foram abordados nesta unidade. Lembre - se dos pontos mais importantes:
+
+            // IndexOf() informa a primeira posição de um caractere ou uma cadeia de caracteres dentro de outra cadeia de caracteres.
+            // IndexOf() retornará - 1 se não for possível encontrar uma correspondência.
+            // Substring() retorna apenas a parte especificada de uma cadeia de caracteres usando uma posição inicial e um comprimento opcional.
+            // LastIndexOf() retorna a última posição de um caractere ou uma cadeia de caracteres dentro de outra cadeia de caracteres.
+            // IndexOfAny() retorna a primeira posição de uma matriz de char que ocorre dentro de outra cadeia de caracteres.
+            // Geralmente, há mais de uma maneira de resolver um problema.Usamos duas técnicas diferentes para localizar todas as instâncias de um determinado caractere ou cadeia de caracteres.
+            // Evite valores mágicos codificados.Em vez disso, defina uma variável const. O valor de uma variável constante não pode ser alterado após a inicialização.
+
+
+
+            // Remove() e Replace()
+
+            // O método Remove() funciona de forma semelhante ao método Substring().
+            // Você fornecerá uma posição inicial e o comprimento para remover esses
+            // caracteres da cadeia de caracteres.
+            /*
+            string data = "12345John Smith          5000  3  ";
+            string updatedData = data.Remove(5, 20);
+            Console.WriteLine(updatedData);
+            */
+
+            // O método Replace() é diferente dos outros usados até agora, pois substitui
+            // todas as instâncias dos caracteres especificados, não apenas a primeira ou
+            // a última.
+            /*
+            string message = "This--is--ex-amp-le--da-ta";
+            message = message.Replace("--", " ");
+            message = message.Replace("-", "");
+            Console.WriteLine(message);
+            */
             Console.ReadLine();
         }
     }

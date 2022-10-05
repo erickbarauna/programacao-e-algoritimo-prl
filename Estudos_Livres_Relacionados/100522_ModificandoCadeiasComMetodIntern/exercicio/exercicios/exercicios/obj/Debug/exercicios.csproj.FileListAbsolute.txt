@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100522_ModificandoCadeiasComMetodIntern\exercicio\exercicios\exercicios\bin\Debug\exercicios.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100522_ModificandoCadeiasComMetodIntern\exercicio\exercicios\exercicios\bin\Debug\exercicios.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100522_ModificandoCadeiasComMetodIntern\exercicio\exercicios\exercicios\bin\Debug\exercicios.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100522_ModificandoCadeiasComMetodIntern\exercicio\exercicios\exercicios\obj\Debug\exercicios.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100522_ModificandoCadeiasComMetodIntern\exercicio\exercicios\exercicios\obj\Debug\exercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100522_ModificandoCadeiasComMetodIntern\exercicio\exercicios\exercicios\obj\Debug\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100522_ModificandoCadeiasComMetodIntern\exercicio\exercicios\exercicios\obj\Debug\exercicios.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\100522_ModificandoCadeiasComMetodIntern\exercicio\exercicios\exercicios\obj\Debug\exercicios.pdb
