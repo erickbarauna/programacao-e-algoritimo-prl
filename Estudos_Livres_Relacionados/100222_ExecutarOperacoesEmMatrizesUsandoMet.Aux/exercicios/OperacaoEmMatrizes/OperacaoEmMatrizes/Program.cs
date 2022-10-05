@@ -32,7 +32,7 @@ namespace OperacaoEmMatrizes
             }
             */
 
-            /* .Clear .TOLower .Length
+            /* .Clear .ToLower .Length
             string[] pallets = { "B14", "A11", "B12", "A13" };
             Console.WriteLine("");
 
