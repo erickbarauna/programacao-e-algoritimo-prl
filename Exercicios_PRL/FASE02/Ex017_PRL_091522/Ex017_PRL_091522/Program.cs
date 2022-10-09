@@ -29,7 +29,7 @@ namespace Ex017_PRL_091522
                     n2 = (n1 + 1); // Processo 2
                     n3 = n1 + 2; // Processo 3
 
-                    if (n1 + n2 + n3 < resultado) // Condicional 3
+                    if (resultado % 3 != 0) // Condicional 3
                     {
                         Console.WriteLine("Não existe soma de números consecutivos para este número digitado!\n"); // saída 1
                         Thread.Sleep(1500); // Tempo de espera 
