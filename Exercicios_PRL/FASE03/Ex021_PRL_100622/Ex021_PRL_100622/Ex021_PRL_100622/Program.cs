@@ -53,7 +53,7 @@ namespace Ex017_PRL_091522
                 }
 
                 string resposta2 = ""; // Variavel texto - Entrada
-                int contador = 3; // Variavel inteira - ?
+                int contador = 3; // Variavel inteira
 
                 while (resposta2 != "s") // Condicional 4
                 {
