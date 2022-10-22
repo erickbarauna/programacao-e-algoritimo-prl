@@ -1,0 +1,7 @@
+C:\Users\alunoinfo\source\repos\Ex024_PRL_102022\Ex024_PRL_102022\bin\Debug\Ex024_PRL_102022.exe.config
+C:\Users\alunoinfo\source\repos\Ex024_PRL_102022\Ex024_PRL_102022\bin\Debug\Ex024_PRL_102022.exe
+C:\Users\alunoinfo\source\repos\Ex024_PRL_102022\Ex024_PRL_102022\bin\Debug\Ex024_PRL_102022.pdb
+C:\Users\alunoinfo\source\repos\Ex024_PRL_102022\Ex024_PRL_102022\obj\Debug\Ex024_PRL_102022.csproj.AssemblyReference.cache
+C:\Users\alunoinfo\source\repos\Ex024_PRL_102022\Ex024_PRL_102022\obj\Debug\Ex024_PRL_102022.csproj.CoreCompileInputs.cache
+C:\Users\alunoinfo\source\repos\Ex024_PRL_102022\Ex024_PRL_102022\obj\Debug\Ex024_PRL_102022.exe
+C:\Users\alunoinfo\source\repos\Ex024_PRL_102022\Ex024_PRL_102022\obj\Debug\Ex024_PRL_102022.pdb
