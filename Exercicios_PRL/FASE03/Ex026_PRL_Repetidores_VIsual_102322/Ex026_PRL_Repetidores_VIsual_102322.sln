@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex026_PRL_Repetidores_VIsual_102322", "Ex026_PRL_Repetidores_VIsual_102322\Ex026_PRL_Repetidores_VIsual_102322.csproj", "{66D438FB-6137-4756-91A3-92F1D2F12C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D438FB-6137-4756-91A3-92F1D2F12C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D438FB-6137-4756-91A3-92F1D2F12C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D438FB-6137-4756-91A3-92F1D2F12C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D438FB-6137-4756-91A3-92F1D2F12C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF240595-483A-4A73-BF5D-1DCE1C133BD3}
+	EndGlobalSection
+EndGlobal
