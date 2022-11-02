@@ -17,11 +17,15 @@ body {
 .light-theme {
     --bg: var(--green);
     --fontColor: var(--black);
+    --btnBg: var(--black);
+    --btnFontColor: var(--white);
 }
-
-.dark-theme {
+  
+  .dark-theme {
     --bg: var(--black);
     --fontColor: var(--green);
+    --btnBg: var(--white);
+    --btnFontColor: var(--black);
 }
 
 li {
@@ -31,3 +35,15 @@ li {
 .list {
 list-style: square;
 }
+
+.btn {
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+    color: var(--btnFontColor);
+    background-color: var(--btnBg);
+  }
