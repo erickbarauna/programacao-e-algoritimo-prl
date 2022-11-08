@@ -15,11 +15,103 @@ namespace Ex26_PRL_031122
                 Console.Write("==");
             }
         }
+
+        public static void Red()
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+        }
+
+        public static void Green()
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+        }
+
+        public static void White()
+        {
+            Console.ForegroundColor = ConsoleColor.White;
+        }
+
+        public static void Blue()
+        {
+            Console.ForegroundColor = ConsoleColor.Blue;
+        }
         static void Main(string[] args)
         {
+            string FiguraStr = "";
+            int FiguraInt = 0;
+            int contadorWhile1 = 7;
+
+            string[] Figuras = new string[] { "Triângulo", "Quadrado", "Retângulo"};
+
+            int Op = 0;
+            int contadorWhile2 = 7; 
+
             double Resultado = 0;
-            int Figura, Op;
+            
             int Valor1, Valor2, Valor3 = 0;
+
+            Console.Clear(); // Limpar Tela
+            Linha();
+            Console.WriteLine("\n<Opções de Figuras>"); // Interface
+            Linha();
+            Console.WriteLine("\n1 - Triângulo"); // Interface - Menu
+            Console.WriteLine("2 - Quadrado"); // Interface - Menu
+            Console.WriteLine("3 - Retângulo"); // Interface - Menu
+            Linha();
+
+            while (FiguraInt > 3 || FiguraInt < 1)
+            {
+                Console.WriteLine("\nDigite a figura desejada: ");
+                Console.SetCursorPosition(26, contadorWhile1); // Posição 1
+                FiguraStr = Console.ReadLine(); // Entrada 1
+                Linha();
+
+                if (int.TryParse(FiguraStr, out FiguraInt))
+                {
+                    if (FiguraInt > 3 || FiguraInt < 1)
+                    {
+                        Red();
+                        Console.WriteLine("\nOps! Digite uma das 3 opções possíveis!");
+                        White();
+                        Linha();
+                    }
+                }
+                else
+                {
+                    Blue();
+                    Console.Write("\nPor favor, digite apenas ");
+                    Green();
+                    Console.Write("números");
+                    Blue();
+                    Console.Write("!\n");
+                    White();
+                    Linha();
+                }
+                contadorWhile1 += 4;
+            }
+
+            Console.Clear();
+            Linha();
+            Console.Write($"\nVocê escolheu a figura ");
+            Green();   
+            Console.Write(Figuras[FiguraInt - 1]);
+            White();
+            Console.Write("! \nAgora selecione a opção desejada: "); // Interface
+            Console.WriteLine("\n\n1 - Área"); // Interface - Menu
+            Console.WriteLine("2 - Perimetro"); // Interface - Menu
+
+            while (Op < 1 || Op > 2)
+            {
+                Console.WriteLine("\nDigite a opção: "); // Interface
+                Linha();
+                Console.SetCursorPosition(16, contadorWhile2); // Posição 2 
+                Op = int.Parse(Console.ReadLine()); // Entrada 2
+
+                contadorWhile2 += 2;
+            }
+            
+
+            /*
             Console.Clear(); // Limpar Tela
             Linha();
             Console.WriteLine("\n<Opções de Figuras>"); // Interface
@@ -133,6 +225,7 @@ namespace Ex26_PRL_031122
                     Resultado = 0; // Processo 7
                     break; 
             }
+            */
             Console.ReadLine();
         }
     }
