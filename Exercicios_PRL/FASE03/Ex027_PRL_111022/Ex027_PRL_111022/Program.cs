@@ -113,7 +113,7 @@ namespace Ex26_PRL_031122
             Green();
             Console.Write(Figuras[FiguraInt - 1]);
             White();
-            Console.Write("! \nAgora selecione a opção desejada: ");
+            Console.Write("! \nAgora selecione a opção desejada! ");
             Console.WriteLine("\n\n1 - Área");
             Console.WriteLine("2 - Perimetro");
 
@@ -285,7 +285,23 @@ namespace Ex26_PRL_031122
 
                                     if (int.TryParse(ValorStr3, out ValorInt3))
                                     {
-                                        Resultado = ValorInt1 + ValorInt2 + ValorInt3;
+                                        if (ValorInt1 < ValorInt2 + ValorInt3 || ValorInt2 < ValorInt1 + ValorInt3 || ValorInt3 < ValorInt1 + ValorInt2)
+                                        {
+                                            Red();
+                                            Linha();
+                                            Console.WriteLine($"\nNão foi possível formar um Triângulo!");
+                                            Linha();
+                                            White();
+                                        }
+                                        else
+                                        {
+                                            Resultado = ValorInt1 + ValorInt2 + ValorInt3;
+                                            Green();
+                                            Linha();
+                                            Console.WriteLine($"\nPerimêtro do Triângulo = {Resultado} ");
+                                            Linha();
+                                        }
+                                        
                                     }
                                     else
                                     {
@@ -293,11 +309,6 @@ namespace Ex26_PRL_031122
                                     }
                                     contadorWhile2 += 4;
                                 }
-
-                                Green();
-                                Linha();
-                                Console.WriteLine($"\nPerimêtro do Triângulo = {Resultado} ");
-                                Linha();
                             }
                             else if (FiguraInt == 2)
                             {
