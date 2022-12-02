@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE04\Ex036_PRL_120222\Ex036_PRL_120222\bin\Debug\Ex036_PRL_120222.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE04\Ex036_PRL_120222\Ex036_PRL_120222\bin\Debug\Ex036_PRL_120222.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE04\Ex036_PRL_120222\Ex036_PRL_120222\bin\Debug\Ex036_PRL_120222.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE04\Ex036_PRL_120222\Ex036_PRL_120222\obj\Debug\Ex036_PRL_120222.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE04\Ex036_PRL_120222\Ex036_PRL_120222\obj\Debug\Ex036_PRL_120222.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE04\Ex036_PRL_120222\Ex036_PRL_120222\obj\Debug\Ex036_PRL_120222.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE04\Ex036_PRL_120222\Ex036_PRL_120222\obj\Debug\Ex036_PRL_120222.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Exercicios_PRL\FASE04\Ex036_PRL_120222\Ex036_PRL_120222\obj\Debug\Ex036_PRL_120222.pdb
