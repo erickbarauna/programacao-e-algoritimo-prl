@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\121322_Funcoes-Recursivas\121322_Funcoes-Recursivas\bin\Debug\121322_Funcoes-Recursivas.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\121322_Funcoes-Recursivas\121322_Funcoes-Recursivas\bin\Debug\121322_Funcoes-Recursivas.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\121322_Funcoes-Recursivas\121322_Funcoes-Recursivas\bin\Debug\121322_Funcoes-Recursivas.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\121322_Funcoes-Recursivas\121322_Funcoes-Recursivas\obj\Debug\121322_Funcoes-Recursivas.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\121322_Funcoes-Recursivas\121322_Funcoes-Recursivas\obj\Debug\121322_Funcoes-Recursivas.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\121322_Funcoes-Recursivas\121322_Funcoes-Recursivas\obj\Debug\121322_Funcoes-Recursivas.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\121322_Funcoes-Recursivas\121322_Funcoes-Recursivas\obj\Debug\121322_Funcoes-Recursivas.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\121322_Funcoes-Recursivas\121322_Funcoes-Recursivas\obj\Debug\121322_Funcoes-Recursivas.pdb
