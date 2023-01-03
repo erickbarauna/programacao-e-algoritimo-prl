@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\variaveis-constantes-aula08\variaveis-constantes-aula08\bin\Debug\variaveis-constantes-aula08.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\variaveis-constantes-aula08\variaveis-constantes-aula08\bin\Debug\variaveis-constantes-aula08.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\variaveis-constantes-aula08\variaveis-constantes-aula08\bin\Debug\variaveis-constantes-aula08.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\variaveis-constantes-aula08\variaveis-constantes-aula08\obj\Debug\variaveis-constantes-aula08.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\variaveis-constantes-aula08\variaveis-constantes-aula08\obj\Debug\variaveis-constantes-aula08.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\variaveis-constantes-aula08\variaveis-constantes-aula08\obj\Debug\variaveis-constantes-aula08.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\variaveis-constantes-aula08\variaveis-constantes-aula08\obj\Debug\variaveis-constantes-aula08.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\variaveis-constantes-aula08\variaveis-constantes-aula08\obj\Debug\variaveis-constantes-aula08.pdb
