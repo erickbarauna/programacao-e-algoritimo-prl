@@ -1,0 +1,8 @@
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\orientacao-a-funcao-aula09\orientacao-a-funcao-aula09\bin\Debug\orientacao-a-funcao-aula09.exe.config
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\orientacao-a-funcao-aula09\orientacao-a-funcao-aula09\bin\Debug\orientacao-a-funcao-aula09.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\orientacao-a-funcao-aula09\orientacao-a-funcao-aula09\bin\Debug\orientacao-a-funcao-aula09.pdb
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\orientacao-a-funcao-aula09\orientacao-a-funcao-aula09\obj\Debug\orientacao-a-funcao-aula09.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\orientacao-a-funcao-aula09\orientacao-a-funcao-aula09\obj\Debug\orientacao-a-funcao-aula09.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\orientacao-a-funcao-aula09\orientacao-a-funcao-aula09\obj\Debug\orientacao-a-funcao-aula09.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\orientacao-a-funcao-aula09\orientacao-a-funcao-aula09\obj\Debug\orientacao-a-funcao-aula09.exe
+C:\Users\conta\Documents\programacao-e-algoritimo-prl\Estudos_Livres_Relacionados\torne-se_um_programador_C#\orientacao-a-funcao-aula09\orientacao-a-funcao-aula09\obj\Debug\orientacao-a-funcao-aula09.pdb
