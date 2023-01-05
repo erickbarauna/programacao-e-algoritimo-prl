@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Xml.Schema;
 
 namespace orientacao_a_funcao_aula09
 {
@@ -28,7 +29,7 @@ namespace orientacao_a_funcao_aula09
                 using (StreamReader arquivo = File.OpenText(arquivoComCaminho))
                 {
                     string linha;
-                    Console.WriteLine("====================");
+                    Console.WriteLine("\n====================");
                     Console.WriteLine($"Arquivo {numeroArquivo}.");
                     Console.WriteLine("====================");
 
@@ -48,6 +49,34 @@ namespace orientacao_a_funcao_aula09
             }
         }
 
+        private static void CalcularMediaAluno()
+        {
+            Console.Write("Digite o nome do Aluno: ");
+            string nome = Console.ReadLine();
+            int qtdNotas = 3;
+            Console.WriteLine($"Digite as {qtdNotas} notas do aluno {nome}");
+            List<int> notas = new List<int>();
+
+            int totalNotas = 0;
+
+            for (int i = 0; i<qtdNotas; i++)
+            {
+                Console.WriteLine($"Digite a {i+1}° Nota do ALuno:");
+                int nota = int.Parse(Console.ReadLine());
+                totalNotas += nota;
+                notas.Add(nota);
+            }
+
+            int media = totalNotas / notas.Count;
+            Console.WriteLine($"A média do aluno {nome} é: {media}");
+            Console.WriteLine("Suas notas são:\n");
+
+            foreach (int nota in notas)
+            {
+                Console.WriteLine($"Nota: {nota}\n");
+            }
+        }
+
         public const int SAIDA_ARQUIVO = 0;
         public const int LER_ARQUIVO = 1;
         public const int TABUADA = 2;
@@ -61,7 +90,7 @@ namespace orientacao_a_funcao_aula09
                     "\n0 - Sair do programa" +
                     "\n1 - Para ler arquivos" +
                     "\n2 - Para executar a tubuada" +
-                    "\n3 - Calcular média de alunos";
+                    "\n3 - Calcular média de alunos\n";
 
                 Console.WriteLine(mensagem);
 
@@ -77,17 +106,17 @@ namespace orientacao_a_funcao_aula09
                 }
                 else if (valor == TABUADA)
                 {
-                    Console.WriteLine("Digite o número da tabuada: ");
+                    Console.WriteLine("\nDigite o número da tabuada: ");
                     int numero = int.Parse(Console.ReadLine());
                     Tabuada(numero);
                 }
                 else if (valor == CALCULO_MEDIA)
                 {
-                    Console.WriteLine("Calcular média");
+                    CalcularMediaAluno();
                 }
                 else
                 {
-                    Console.WriteLine("Opção inválida");
+                    Console.WriteLine("\nOpção inválida");
                 }
 
                 Console.ReadLine();
