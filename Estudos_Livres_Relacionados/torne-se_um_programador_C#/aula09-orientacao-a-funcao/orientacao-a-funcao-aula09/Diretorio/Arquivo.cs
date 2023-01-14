@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace Diretorio
     {
         public static void Ler(int numeroArquivo)
         {
-            string arquivoComCaminho = $@"C:\Arquivos\arq{numeroArquivo}.txt";
+            string arquivoComCaminho = ConfigurationManager.AppSettings["CaminhoArquivos"] + $@"arq{numeroArquivo}.txt";
 
             if (File.Exists(arquivoComCaminho))
             {
@@ -31,7 +32,7 @@ namespace Diretorio
                 }
             }
 
-            string arquivoComCaminho2 = $@"C:\Arquivos\arq{numeroArquivo + 1}.txt";
+            string arquivoComCaminho2 = ConfigurationManager.AppSettings["CaminhoArquivos"] + $@"arq{numeroArquivo + 1}.txt";
 
             if (File.Exists(arquivoComCaminho2))
             {
