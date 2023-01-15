@@ -11,6 +11,20 @@ namespace Classes
 {
     public class Cliente
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="nome"></param>
+        public Cliente(string nome)
+        {
+            this.Nome = nome;
+        }
+
+        public Cliente()
+        {
+
+        }
+
         public string Nome;
         public string Telefone;
         public string CPF;
